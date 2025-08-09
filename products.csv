@@ -1,0 +1,2 @@
+company,product_code,product_name,currency,min_issue_age,max_issue_age,pay_terms,min_face_usd,base_prem_per_10k_usd,guaranteed_rate,declared_rate_default,features
+全球人壽,FYW,美富88 利率變動型美元終身壽險（定額給付型）,USD,0,69,"6|8|12|20",30000,330,0.0275,0.0425,"美元計價;宣告利率機制;分期定額給付選項;2~6級失能豁免;可轉即期年金(依規定)"
