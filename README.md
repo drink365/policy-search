@@ -1,10 +1,10 @@
-# policy-search
+# 📦 保險商品查詢系統
 
-極簡壽險商品建議與試算（Streamlit）
-- 先內建「全球人壽 美富88（FYW）」示例資料
-- 支援使用者輸入條件 → 建議保額、基礎試算與重點風險
+此專案可根據 **性別、年齡、保額、繳費年期** 等條件，快速篩選保險商品。
 
-## 快速開始
-```bash
-pip install -r requirements.txt
-streamlit run policy-search.py
+## 🚀 使用方式
+
+1. 將你的 Excel 檔案放到 `data/policies.xlsx`
+2. 安裝套件：
+   ```bash
+   pip install -r requirements.txt
